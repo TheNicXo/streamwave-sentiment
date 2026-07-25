@@ -1,0 +1,14 @@
+# Données et modèles lourds (MLOps)
+*.csv
+*.pkl
+
+# Fichiers de cache Python et Streamlit
+__pycache__/
+.streamlit/
+*.pyc
+
+# Graphiques locaux générés par matplotlib
+*.png
+
+# Fichiers système Mac
+.DS_Store
