@@ -6,6 +6,7 @@
 ![Status](https://img.shields.io/badge/Status-Portfolio_Ready-success)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.0%2B-blue)
 
+> 🚀 **Démo interactive en ligne :** [Tester l'application StreamWave](https://streamwave-sentiment-thenicxo.streamlit.app/)
 
 Moteur d'analyse de sentiment hybride pour la plateforme vidéo **StreamWave**. Le système combine du traitement automatique du langage naturel (NLP) sur les commentaires utilisateurs à l'aide de Transformers avec des métriques d'interaction (temps de visionnage, likes, partages) pour attribuer une note implicite de 1 à 5 et alimenter l'algorithme de recommandation.
 
